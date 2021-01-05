@@ -1,2 +1,1 @@
-# tombol
-Add arrow in termux
+# tombol tambahan termux 
